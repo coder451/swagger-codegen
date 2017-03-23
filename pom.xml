@@ -9,13 +9,13 @@
     <artifactId>swagger-codegen-project</artifactId>
     <packaging>pom</packaging>
     <name>swagger-codegen-project</name>
-    <version>2.3.0-SNAPSHOT</version>
+    <version>2.3.0</version>
     <url>https://github.com/coder451/swagger-codegen</url>
     <scm>
         <connection>scm:git:coder451@github.com:coder451/swagger-codegen.git</connection>
         <developerConnection>scm:git:coder451@github.com:coder451/swagger-codegen.git</developerConnection>
         <url>https://github.com/coder451/swagger-codegen</url>
-      <tag>swagger-codegen-project-2.3.0-SNAPSHOT</tag>
+      <tag>swagger-codegen-project-2.3.0</tag>
   </scm>
     <prerequisites>
         <maven>2.2.0</maven>
